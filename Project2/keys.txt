@@ -1,0 +1,1 @@
+Weather api key:   a6b2c45a4add4544b5582135250807
