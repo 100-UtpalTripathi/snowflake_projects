@@ -1,0 +1,2 @@
+S3 Uri :   s3://demo-07072025/customers.csv
+iam role arn: arn:aws:iam::604727574140:role/SnowflakeS3AccessRole
